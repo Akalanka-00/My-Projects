@@ -37,4 +37,5 @@ Buy me a coffee [☕](https://www.buymeacoffee.com/shenalakalanka)
 
 ![qualifications.png](https://github.com/Akalanka-00/My-Projects/blob/main/portfolio/src/qualifications.png)
 
+![notification.png](https://github.com/Akalanka-00/My-Projects/blob/main/portfolio/src/notification.png)
 
