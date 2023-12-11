@@ -6,7 +6,8 @@
 
 ![Portfolio.png](https://github.com/Akalanka-00/My-Projects/blob/main/portfolio/src/Portfolio.png)
 
-This is my own portfolio, which includes a standard portfolio as well as an administration page for managing portfolio data. This admin area allowed me to manage my projects, skills, and contact information, update my resume, and manage my experiences and education. This project has a system in place to keep track of how many users visit the portfolio. Also, this system made it easy for someone to leave a review of me on my portfolio. With the aid of the admin panel, I can choose which reviews appear beneath the testimonies.
+This is my own portfolio, which includes a standard portfolio as well as an administration page for managing portfolio data. This admin area allowed me to manage my projects, skills, and contact information, update my resume, and manage my experiences and education. This project has a system in place to keep track of how many users visit the portfolio. Also, this system made it easy for someone to leave a review of me on my portfolio. With the aid of the admin panel, I can choose which reviews appear beneath the testimonies. Using the notification system which is intergrated with the system will notify the admin when some event happened such as, new rating, new testimonial and etc.
+
 
 
 
